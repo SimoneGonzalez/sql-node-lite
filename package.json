@@ -1,0 +1,22 @@
+{
+  "name": "sql-node-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimoneGonzalez/sql-node-lite.git"
+  },
+  "author": "simone.b.gonzalez@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SimoneGonzalez/sql-node-lite/issues"
+  },
+  "homepage": "https://github.com/SimoneGonzalez/sql-node-lite#readme",
+  "dependencies": {
+    "sqlite3": "^3.0.10"
+  }
+}
